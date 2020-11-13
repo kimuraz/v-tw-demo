@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "tailwindcss": "^1.9.6",
+    "v-tw-directives": "^0.1.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
