@@ -4,13 +4,22 @@
 
     <h2>VTW</h2>
 
-    <button v-tw>Default</button>
+    <div v-twc="cardDef">
+      <button v-tw>Default</button>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
   name: "App",
+  data() {
+    return {
+      cardDef: {
+        card: ['bordered'],
+      },
+    }
+  },
 };
 </script>
 

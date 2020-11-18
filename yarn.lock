@@ -8228,10 +8228,10 @@ uuid@^3.3.2, uuid@^3.4.0:
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
   integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
 
-v-tw-directives@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/v-tw-directives/-/v-tw-directives-0.1.0.tgz#26e7de93ee6828251db819f79445157e9fc38333"
-  integrity sha512-RECdkMHKWwxgiChWR8ZnTzXwX6NIhX7pjc3vg1TcvbfD29Q+iC7dvy1Kl5xoyPP4CvZ7J9mPyRN/dAkk80UPZg==
+v-tw-directives@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/v-tw-directives/-/v-tw-directives-0.2.1.tgz#81d6f123741220a6583e934f13cc196786d91f5b"
+  integrity sha512-gDqlbEgynG4Urp210D4BVd66QnXmIKYcpO0JmfEhLX1INi3HDULmiuJ9wUjvUX70ZFlybIHUXEPb4zTjXuZGwg==
   dependencies:
     tailwindcss "^1.9.6"
     vue "^2.6.12"

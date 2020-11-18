@@ -11,6 +11,15 @@ Vue.use(VTW, {
       classes: "bg-teal-300 hover:bg-teal-400 text-white py-2 px-3",
     },
   },
+  twc: {
+    card: {
+        classes: 'bg-gray-100 rounded-sm p-2',
+        modifiers: {
+            green: 'bg-green-200',
+            bordered: 'border border-gray-800',
+        },
+    },
+  },
 });
 
 new Vue({
